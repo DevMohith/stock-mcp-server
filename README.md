@@ -11,7 +11,7 @@ Currently available tools -
 
 Feel free to add more tools
 - No PR's required
-- I trust your in your code ;)
+- I trust in your code ;)
 
 ------------------------------------------------------
 
